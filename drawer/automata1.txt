@@ -1,0 +1,17 @@
+a b c d e f g h i
+0 1 2
+a g
+b c e i f
+a 0 b
+d 1 e
+a 1 g
+b 1 f
+f 0 c
+g 1 c
+e 0 h
+c 0 c
+c 1 c
+h 1 h
+h 0 h
+h 2 h
+c 2 i
